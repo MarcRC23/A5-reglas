@@ -6,10 +6,11 @@ El elemento body con margen 0
 
 # Regla Nº2
 
-En el id ponemos el header y aplicamos: color negro, la altura 100 vh, la imagen de fondo 3-discoteca-hi-ibiza_11077768_20190101163411.jpg, la posición en el centro y el tamaño de fondo que cubra la pantalla.
+En el id ponemos el header y aplicamos: color negro, la altura 100 vh
+
 # Regla Nº3
 
-En la clase flex 
+En la clase flex tiene que estar centrado.
 # Regla Nº4
 
 El selector id de nombre main el relleno de 20 de izquierda y derecha 
@@ -28,7 +29,7 @@ Para todos los iframe les ponemos 350 pixeles de altura y un ancho de 100%
 
 # Regla Nº8
 
-En el id header todos los títulos tienen que contener el color blanco, margen 0, el relleno debe de ser 20% tanto en la derecha como en la izquierda y la fuente de 50 pixeles 
+En el id header todos los títulos tienen que contener el color blanco, margen 0. 
 
 # Regla Nº9
 
@@ -42,17 +43,18 @@ En todas las imágenes deben tener 100% de anchura
 
 En el id spolier poner la fuente 'Mukta', sans-serif;
 
-# Regla Nº12
+# Regla Nº12"
 
-En el id footer tiene que estar el texto centrado, de color de fondo negro y el color gris y relleno de fondo e 12 pixeles.
+En el id footer tiene que estar el texto centrado
 
 # Regla Nº13
 
-
+Tambien en el id footer poner fondo negro y el color gris y relleno de fondo e 12 pixeles.
 
 # Regla Nº14
 
+ En el id header el relleno debe de ser 20% tanto en la derecha como en la izquierda y la fuente de 50 pixeles
 
 # Regla Nº15
-
+En el id header aplicamos la imagen de fondo 3-discoteca-hi-ibiza_11077768_20190101163411.jpg, la posición en el centro y el tamaño de fondo que cubra la pantalla.
 
